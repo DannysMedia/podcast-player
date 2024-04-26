@@ -7,8 +7,7 @@ A basic RSS feed player
 
 - Episode select
 - Save podcasts for quick access
-- Download episodes
-
+  
 ##  Future features:
 - Resume Episode
 - Better UI
